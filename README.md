@@ -19,9 +19,10 @@ The IR sensor detects a reflective surface once per rotation. Arduino measures t
 
 ## 🧾 Files Included
 
-- `tachometer.ino` – Arduino code with LCD and buzzer
-- `circuit.png` – Circuit diagram
+- [`tachometer.ino`](tachometer.ino) – Arduino code with LCD and buzzer logic
+- [`circuit.png`](circuit.png) – Circuit wiring diagram
 - `README.md` – Project documentation
+
 
 ## 👨‍💻 Team
 
